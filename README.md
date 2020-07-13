@@ -29,6 +29,12 @@ bilateral hearing loss. The performance of this easy-to-use smartphonebased
 application is compared with traditional HADs using a hearing
 aid test system. Objective and subjective evaluations are also carried
 out to quantify the performance.
+
+## Requirements
+**Install Xcode to run it on local iPhone or mac processor.
+**Runs on iPhone with iOS 10+ versions.
+Install using .xcodeproj file.
+
  
 
 ## Video Demo of the Application:
