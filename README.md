@@ -1,4 +1,4 @@
-#Frequency based Adaptive Wide Dynamic Range Compression
+# Frequency based Adaptive Wide Dynamic Range Compression
 
 ## Overview
 What is the application?
