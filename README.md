@@ -31,7 +31,7 @@ aid test system. Objective and subjective evaluations are also carried
 out to quantify the performance.
 
 ## Requirements
-**Install Xcode to run it on local iPhone or mac processor.
+**Install Xcode to run it on local iPhone or Mac.
 **Runs on iPhone with iOS 10+ versions.
 Install using .xcodeproj file.
 
@@ -41,7 +41,7 @@ Install using .xcodeproj file.
 https://www.youtube.com/watch?time_continue=2&v=_BrbM7Pst6A&feature=emb_logo
 
 ## User Guides
-More details about how the application was developed is written in USER GUIDE file available in the same folder.
+More details about how the application was developed is written in [USER GUIDE](Compression_Users-Guide-iOS.pdf) file available in the same folder.
 
 For more details about the algorithm please refer the work:
 Compression Fitting of Hearing Aids and Implementation. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. 
