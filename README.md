@@ -53,7 +53,7 @@ For more details about related work in signal processing, please visit: https://
 
 ## License and Citation
 
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 ## Disclaimer
 This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National Institutes of Health (NIH) under Award 1R01DC015430-04. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
